@@ -1,0 +1,1 @@
+start conhost.exe ²Â×ÖÃÕ.exe
